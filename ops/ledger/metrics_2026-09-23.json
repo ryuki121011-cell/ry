@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-23",
+  "zenn_articles": [
+    {
+      "slug": "2026-09-20-ai-agent-side-business-01",
+      "live": true,
+      "liked": 0,
+      "comments": 0,
+      "letters": 1567
+    },
+    {
+      "slug": "2026-09-20-ai-agent-side-business-02",
+      "live": true,
+      "liked": 0,
+      "comments": 0,
+      "letters": 1240
+    },
+    {
+      "slug": "2026-09-20-ai-agent-side-business-03",
+      "live": false,
+      "http": 404
+    }
+  ],
+  "zenn_books": [
+    {
+      "slug": "ai-agent-side-business-log",
+      "live": true,
+      "price": 500,
+      "liked": 0
+    }
+  ],
+  "gumroad": [
+    {
+      "name": "Claude Code 自動化スターターパック",
+      "published": false,
+      "price": "¥2,980",
+      "sales_count": 0,
+      "sales_usd_cents": 0.0,
+      "url": "https://ryukimystic8.gumroad.com/l/claude-code-automation-pack"
+    },
+    {
+      "name": "AIエージェント・プロジェクト管理テンプレート(Excel/Googleスプレッドシート対応 + Notion版ガイド付き)",
+      "published": true,
+      "price": "¥1,980",
+      "sales_count": 0,
+      "sales_usd_cents": 0.0,
+      "url": "https://ryukimystic8.gumroad.com/l/ai-agent-project-template"
+    }
+  ],
+  "errors": []
+}
